@@ -1,0 +1,7 @@
+我:文本1 
+你:文本2 
+A:文本3 
+event_choose 1 choose1 choose2 choose3 
+我:玩一个小游戏，准备好.（其实没有游戏玩）
+event_game 1 
+我:这就是全部了 
